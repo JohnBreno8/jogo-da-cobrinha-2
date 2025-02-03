@@ -4,7 +4,8 @@
 1. Configuração dos Modos de Jogo:
 
 GAME_MODES = {
-    "🎮 Clássico": "classic",
+
+    "🎮 Clássico": "classic"
     
     "🤖 Modo IA": "ai"
     
@@ -12,6 +13,7 @@ GAME_MODES = {
     
     "🚧 Modo Obstáculos": "obstacles"
 }
+
 
 Esse dicionário GAME_MODES define os diferentes modos de jogo. Quando o jogador inicia o jogo, ele escolhe um modo e a mecânica do jogo muda. O modo "IA" faz a cobrinha jogar contra uma inteligência artificial que tenta buscar a comida. Já o "Modo Portal" permite que a cobrinha atravesse as bordas da tela, enquanto no "Modo Obstáculos", você tem obstáculos pelo caminho, tornando o jogo mais desafiador. Esse tipo de configuração é bacana porque dá ao jogo uma boa variabilidade!
 
@@ -148,4 +150,10 @@ python jogo-da-cobrinha2.py
 
 Após executar esse comando, o jogo será iniciado no terminal e você poderá jogar diretamente ali, utilizando as teclas para controlar a cobrinha ou se você estiver em um dispositivo móvel vc pode usar as setas também .
 
- 
+ imagens dk jogo
+ ![Screenshot_20250203-073905_1](https://github.com/user-attachments/assets/66808b0a-1a0d-4ce3-81f9-0a16428030dd)
+![Screenshot_20250203-073758_1](https://github.com/user-attachments/assets/cefefca2-d568-4ecb-ab96-333b5b35b674)
+![Screenshot_20250203-073701_1](https://github.com/user-attachments/assets/2fef87c0-a0f2-488a-a8a3-7c776cf253cb)
+![Screenshot_20250203-073620_1](https://github.com/user-attachments/assets/3af37dd0-1730-482a-ab61-b8d26d2bf408)
+![Screenshot_20250203-074303_1](https://github.com/user-attachments/assets/67dcecd1-9d60-4ef3-bbaa-b60dccb5d092)
+![Screenshot_20250202-221020_1](https://github.com/user-attachments/assets/6298bffb-46db-483f-b068-986bcda15811) 
